@@ -3,8 +3,8 @@ import 'package:mpesa_flutter_plugin/mpesa_flutter_plugin.dart';
 import 'dart:async';
 
 void main() {
-  MpesaFlutterPlugin.setConsumerKey("j8feFvMTXarCytPXjjqrrAMplKgG8b6D");
-  MpesaFlutterPlugin.setConsumerSecret("EiebYVmzoNnvzLsC");
+  MpesaFlutterPlugin.setConsumerKey("consumerkey");
+  MpesaFlutterPlugin.setConsumerSecret("consumersecret");
 
   runApp(MyApp());
 }
