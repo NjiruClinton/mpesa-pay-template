@@ -1,1 +1,4 @@
 *.dart linguist-detectable=true
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.cmake linguist-vendored
