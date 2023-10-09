@@ -2,7 +2,7 @@
 
 
 
-## install depenancies
+## install dependencies
 ```
 mpesa_flutter_plugin: ^1.6.0
 ```
